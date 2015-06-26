@@ -1,1 +1,5 @@
+.org-id-locations
+auto-save-list/
 elpa/
+eshell/
+org-clock-save.el
